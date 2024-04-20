@@ -5,6 +5,6 @@ To use this wiki, go to the home page index [here](https://github.com/NoMoreUser
 
 You can search for content within this wiki by using the search bar to the top right of this page, and then clicking on "wiki" from the menu to the left after hitting enter.
 
-If youd like to make an edit suggestion, or request an example for aomething not covered in the examples section, you can submit an issue using the appropriate tag and I'll conaider adding it if it warrants its own example. 
+If you'd like to make an edit suggestion, or request an example for something not covered in the examples section, you can submit an issue using the appropriate tag and I'll consider adding it if it warrants its own example. 
 
 Credit to Ivorius for writing the original wiki.
